@@ -1,0 +1,98 @@
+
+/*Heading Styles*/
+h1,
+ h2 {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 3em;
+	color: #048232;
+	text-shadow: 2px 2px #F5C014;
+}
+
+/*Article Stylings*/
+
+.aOne{
+	font-size: 1.8em;
+	line-height: 2;
+	color: #F5C014;
+	background-color: #07ED5B;
+	font-family: 'Open Sans', sans-serif;
+	border: 10px solid #F5C014;
+	border-radius: 15%;
+	padding: 5% 5%;
+}
+
+.aTwo{
+	font-size: 1.6em;
+	line-height: 1.8;
+	color: #F5E7B8;
+	background-color: #04D450;
+	font-family: 'Baloo Bhai', cursive;
+	border: 10px solid #F5E7B8;
+	border-radius: 30%;
+	padding: 10% 10%;
+}
+
+.aThree{
+	font-size: 1.4em;
+	line-height: 1.6;
+	color: #F5DD8E;
+	background-color: #06BD49;
+	font-family: 'Slabo 27px', serif;
+	border: 10px solid #F5DD8E;
+	border-radius: 45%;
+	padding: 15% 15%;
+}
+
+.aFour{
+	font-size: 1.2em;
+	line-height: 1.4;
+	color: #F2CE57;
+	background-color: #05A33F;
+	font-family: 'Oswald', sans-serif;
+	border: 10px solid #F2CE57;
+	border-radius: 60%;
+	padding: 20% 20%;
+}
+
+.aFive{
+	font-size: 1em;
+	line-height: 1.2;
+	color: #F5C014;
+	background-color: #048232;
+	font-family: 'Roboto Slab', serif;
+	border: 10px solid #F5C014;
+	border-radius: 75%;
+	padding: 25% 25%;
+}
+
+.author,
+.published {
+	font-size: .5em;
+	line-height: .5em;
+}
+
+/*Footer*/
+
+.bottom {
+	font-size: .8em;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
